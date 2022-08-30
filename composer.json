@@ -4,6 +4,6 @@
   "minimum-stability": "stable",
   "require": {
     "php": ">=7.4",
-    "php-http/guzzle6-adapter": "^v1.0"
+    "php-http/guzzle6-adapter": "^v2.0"
   }
 }

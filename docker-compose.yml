@@ -1,7 +1,7 @@
 version: "3"
 services:
   php:
-    image: "dockercache.mountaininfra.net/docker-images/php-fpm:7.4"
+    image: "dockercache.mountaininfra.net/docker-images/php-fpm:7.4-composer-2-1.0.0"
     volumes:
       - .:/app:cached
     working_dir: /app
