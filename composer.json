@@ -1,0 +1,9 @@
+{
+  "name": "libs-php/guzzle-adapter-proxy",
+  "description": "proxy package for guzzle6-adapter and guzzle7-adapter",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.4",
+    "php-http/guzzle6-adapter": "^v1.0"
+  }
+}
